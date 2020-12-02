@@ -1,0 +1,28 @@
+body {
+    background-color: pink;
+    font-family: "Nunito", sans-serif;
+}
+
+#mainNavbar {
+    font-size: 1.5rem;
+    font-weight: 100;
+    text-transform: uppercase;
+}
+
+#mainNavbar .nav-link {
+    color: white;
+}
+
+#mainNavbar .nav-link:hover {
+    color: #EA1C2C;
+}
+
+#mainNavbar .navbar-brand {
+    color: #EA1C2C;
+}
+
+.card {
+    background-color: pink;
+    color: violet;
+    font-size: 1.5rem;
+}

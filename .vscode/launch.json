@@ -1,0 +1,106 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Conditional Exercises",
+            "program": "${workspaceFolder}/Javascript\\conditionalExercises.js"
+        },
+        {
+            "name": "Guessing Game",
+            "type": "firefox",
+            "request": "launch",
+            "url": "file:///${workspaceFolder}/Javascript/GuessingGame\\game.html",
+            "webRoot": "${workspaceFolder}/Javascript/GuessingGame"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Loop Exercises",
+            "program": "${workspaceFolder}/Javascript\\whileExercises.js"
+        },
+        {
+            "name": "Annoy-omatic",
+            "type": "firefox",
+            "request": "launch",
+            "url": "file:///${workspaceFolder}/Javascript/Annoy-omatic\\annoy.html",
+            "webRoot": "${workspaceFolder}/Javascript/Annoy-omatic"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Function Exercises",
+            "program": "${workspaceFolder}/Javascript\\functionsExercises.js"
+        },
+        {
+            "name": "To-Do List",
+            "type": "firefox",
+            "request": "launch",
+            "url": "file:///${workspaceFolder}/Javascript/TodoList\\list.html",
+            "webRoot": "${workspaceFolder}/Javascript/TodoList"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Array Exercises",
+            "program": "${workspaceFolder}/Javascript\\arrayExercises.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "My ForEach",
+            "program": "${workspaceFolder}/Javascript\\myForEach.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Objects Exercises",
+            "program": "${workspaceFolder}/Javascript\\objectsExercises.js"
+        },
+        {
+            "name": "DOM Selector Exercise",
+            "type": "firefox",
+            "request": "launch",
+            "url": "file:///${workspaceFolder}/DOM/Selector Exercise\\index.html",
+            "webRoot": "${workspaceFolder}/DOM/Selector Exercise"
+        },
+        {
+            "name": "DOM Manipulation",
+            "type": "firefox",
+            "request": "launch",
+            "url": "file:///${workspaceFolder}/DOM/Manipulating Elements\\index.html",
+            "webRoot": "${workspaceFolder}/DOM/Manipulating Elements"
+        },
+        {
+            "name": "Color Changer",
+            "type": "firefox",
+            "request": "launch",
+            "url": "file:///${workspaceFolder}/DOM/Color Changer\\index.html",
+            "webRoot": "${workspaceFolder}/DOM/Color Changer"
+        },
+        {
+            "name": "Score Counter",
+            "type": "firefox",
+            "request": "launch",
+            "url": "file:///${workspaceFolder}/DOM/Score Counter\\index.html",
+            "webRoot": "${workspaceFolder}/DOM/Score Counter"
+        },
+        {
+            "name": "jQuery Selector Exercise",
+            "type": "firefox",
+            "request": "launch",
+            "url": "file:///${workspaceFolder}/jQuery/Selector Exercise\\index.html",
+            "webRoot": "${workspaceFolder}/jQuery/Selector Exercise"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "OOP",
+            "program": "${workspaceFolder}/Javascript\\oop.js"
+        }
+    ]
+}

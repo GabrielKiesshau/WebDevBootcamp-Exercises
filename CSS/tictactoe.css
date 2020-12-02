@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+}
+
+table {
+    margin: auto;  
+}
+
+td {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+
+.lineDown {
+    border-bottom: 2px solid black;
+}
+
+.lineRight {
+    border-right: 2px solid black;
+}

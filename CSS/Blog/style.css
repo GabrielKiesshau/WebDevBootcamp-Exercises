@@ -1,0 +1,37 @@
+
+.mainContent {
+    margin: auto;
+    border: 20px solid #bdc3c7;
+    width: 40%;
+    padding: 1.3%;
+}
+
+.post {
+    margin-top: 10px;
+}
+
+.title {
+    color: #2c3e50;
+}
+
+.title, p {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1.3em;
+}
+
+.date {
+    margin-top: 0px;
+    color: #3498db;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+
+.quote {
+    border-left: 5px solid #bdc3c7;
+    padding-left: 5px;
+}
+
+hr {
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}

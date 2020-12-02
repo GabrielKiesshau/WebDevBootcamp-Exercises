@@ -1,0 +1,45 @@
+/* Elements */
+li {
+
+}
+
+/* Class */
+.hello {
+
+}
+
+/* id */
+#name {
+
+}
+
+/* Star (Selects all elements) */
+* {
+
+}
+
+/* Descendant Selector (Selects all anchor tags inside list item tags in this case) */
+li a {
+
+}
+
+/* Adjacent Selector (Selects all uls that are after h4) */
+h4 + ul {
+
+}
+
+/* Attribute Selector (Selects all tags with attribute equals to a value) */
+a[href="http://www.google.com"] {
+
+}
+input[type="text"] {
+
+}
+
+/* nth of type */
+ul:nth-of-type(3) {
+
+}
+ul:nth-of-type(even) {
+
+}

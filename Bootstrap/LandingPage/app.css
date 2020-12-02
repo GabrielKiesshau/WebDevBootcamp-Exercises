@@ -1,0 +1,21 @@
+body {
+    background: url(https://images.unsplash.com/photo-1511275539165-cc46b1ee89bf?ixlib=rb-1.2.1&dpr=1&auto=format&fit=crop&w=1000&q=80&cs=tinysrgb);
+    background-size: cover;
+    font-family: 'Merriweather', serif;
+}
+
+#content {
+    text-align: center;
+    padding-top: 25%;
+    color: white;
+    text-shadow: 5px 5px rgba(0,0,0,0.2);
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 5em;
+}
+
+hr {
+    width: 400px;
+}
